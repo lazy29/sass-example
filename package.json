@@ -1,0 +1,22 @@
+{
+  "name": "sass-example",
+  "version": "1.0.0",
+  "description": "example of sass css preprocessor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazy29/sass-example.git"
+  },
+  "author": "swaraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lazy29/sass-example/issues"
+  },
+  "homepage": "https://github.com/lazy29/sass-example#readme",
+  "devDependencies": {
+    "sass": "^1.69.3"
+  }
+}
